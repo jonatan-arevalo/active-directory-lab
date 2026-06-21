@@ -34,6 +34,10 @@ Client:
 
 CLIENT01
 
+## Diagrama
+
+![Diagrama](screenshots/Diagrama.png)
+
 ## Screenshots
 
 ### Domain Creation
